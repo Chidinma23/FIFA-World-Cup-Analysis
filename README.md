@@ -29,7 +29,7 @@ Each column was observed and changed to their correct data types where necessary
 After loading the data, relationships were created between the data sets in order to build model relationship that propagates filters applied on the column of one model table to a different model table. A new table was added to this dataset - Date table - This is the compilation of the dates from the earliest to the latest, for easy analysis. 
 
 # PowerBi Desktop : Content Analysis
-DAX maesures were applied by creating calculated measure/columns, using this, the following insights were collected for France: Total World cups, France Total World Cup wins, France World Cup wins as host, FIFA Ranking, Total World Cup Goals, Average Age, Goals and World cup goals by players, Goals by players by position, World Cup Goals by year, and France international goals by year. Interact with my Dashboard and report here: https://drive.google.com/file/d/1p0Fk4oaDpUQWkkL_6MSgNDZ0FJpU1KeH/view?usp=share_link 
+DAX maesures were applied by creating calculated measure/columns, using this, the following insights were collected for France: Total World cups, France Total World Cup wins, France World Cup wins as host, FIFA Ranking, Total World Cup Goals, Average Age, Goals and World cup goals by players, Goals by players by position, World Cup Goals by year, and France international goals by year.
 
 # PowerBi Desktop : Summary Page
 This page is filetered to compare and contrast history of France goals in the world cup to other countries.
