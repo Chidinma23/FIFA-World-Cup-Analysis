@@ -11,6 +11,8 @@ An analysis on the past FIFA world cup and 2022 data using PowerBi
 # Project Objective: Analyze France World Cup History
 This analysis is aimed at focusing on France, showing the story of the country's history with the World Cup, their road to Qatar, and their expectations for this year's tournament by using data visualization.
 
+NOTE: This dataset does not contain the latest data and wins for the just concluded world cup, Qatar, 2022. This analysis is just fo rthe sole purpose of analyzing past records of the world cup tournaments, up till 2018.
+
 # Data Sourcing: Web Scraping
 Data was gotten from the web and downloaded as a CSV file. This dataset contains 6 tables in CSV format. 
 The World Cups table outlines each World Cups in history, including the year, host country, and winner. 
