@@ -1,5 +1,7 @@
 # FIFA WORLD CUP ANALYSIS
-![Screenshot 2023-04-14 004434](https://user-images.githubusercontent.com/115046602/231907258-3ded4efd-91b1-433c-87f6-900c7e7c2060.png)
+![Screenshot 2023-04-22 135124](https://user-images.githubusercontent.com/115046602/233785763-62966ae2-f985-4e64-a87b-2aef9d0db58d.png)
+![Screenshot 2023-04-22 135326](https://user-images.githubusercontent.com/115046602/233785836-603b03c2-8cee-4ae6-a649-655d063a5ef6.png)
+
 
 # Introduction
 The FIFA World Cup is an international association football competition contested by the senior men's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's global governing body. The tournament has been held every four years since the inaugural tournament in 1930. The World Cup is the most prestigious association football tournament in the world, as well as the most widely viewed and followed single sporting event in the world. The viewership of the 2018 World Cup was estimated to be 3.57 billion (close to half of the global population).
